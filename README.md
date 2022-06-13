@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael1717y&label=Profile%20views&color=0e75b6&style=flat" alt="rafael1717y" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafael1717y" alt="rafael1717y" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+
+- 🌱 I’m currently learning **Flask**, **Docker**
 
 - 📫 How to reach me **rafaelufjf@gmail.com**
 
@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael1717y&show_icons=true&locale=en" alt="rafael1717y" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafael1717y&" alt="rafael1717y" /></p>
+
