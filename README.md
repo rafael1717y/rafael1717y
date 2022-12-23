@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Flask**, **Docker**
+- 🌱 I’m currently learning **Flask**, **FastAPI**
 
 - 📫 How to reach me **rafaelufjf@gmail.com**
 
