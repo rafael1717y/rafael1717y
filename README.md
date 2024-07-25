@@ -4,7 +4,8 @@
 
 
 
-- 📫 How to reach me **rafaelufjf@gmail.com**
+
+- 📫 How to reach me: **rafaelufjf@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
